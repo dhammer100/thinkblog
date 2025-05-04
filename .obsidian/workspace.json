@@ -169,8 +169,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "808871ceeb51e775",
+  "active": "f530afa17c74b7bd",
   "lastOpenFiles": [
+    "publish.sh",
     "public/404.html",
     "public/blog/post/index.xml",
     "public/blog/post/index.html",
@@ -181,7 +182,6 @@
     "public/index.html",
     "public/robots.txt",
     "public/index.xml",
-    "public/blog/index.xml",
     "obsidian templates/hugo front matter.md",
     "content/blog/New blog entry.md",
     "Untitled.md"
