@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/New blog entry.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New blog entry"
+              "title": "_index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/New blog entry.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New blog entry"
+              "title": "Backlinks for _index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/New blog entry.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from New blog entry"
+              "title": "Outgoing links from _index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/New blog entry.md",
+                "file": "content/_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New blog entry"
+              "title": "Outline of _index"
             }
           }
         ]
@@ -169,11 +169,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "808871ceeb51e775",
+  "active": "f530afa17c74b7bd",
   "lastOpenFiles": [
+    "assets/think.png",
+    "content/blog/New blog entry.md",
+    "assets/u1634875238_A_minimalist_and_modern_icon_design_for_a_persona_f6cb440d-65d9-41d3-9b2e-f7d29825ce30_2.png",
     "content/_index.md",
     "content/_index.md.md",
-    "content/blog/New blog entry.md",
     "public/_index.md/index.html",
     "public/_index.md",
     "publish.sh",
