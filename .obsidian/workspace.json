@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/blog/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/blog/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/blog/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/blog/_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,10 +171,11 @@
   },
   "active": "f530afa17c74b7bd",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/blog/_index.md",
     "assets/think.png",
     "content/blog/New blog entry.md",
     "assets/u1634875238_A_minimalist_and_modern_icon_design_for_a_persona_f6cb440d-65d9-41d3-9b2e-f7d29825ce30_2.png",
-    "content/_index.md",
     "content/_index.md.md",
     "public/_index.md/index.html",
     "public/_index.md",

@@ -1,6 +1,6 @@
 
 +++
-title = "what"
+title = "."
 +++
 
 ![](assets/think.png)

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&lt;think/&gt;</title>
+    <title>what on &lt;think/&gt;</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on &lt;think/&gt;</description>
+    <description>Recent content in what on &lt;think/&gt;</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate>
@@ -14,13 +14,6 @@
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/new-blog-entry/</guid>
       <description>&lt;p&gt;testing a new system, let&amp;rsquo;s see if it works&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>&lt;think/&gt;</title>
-      <link>http://localhost:1313/_index.md/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/_index.md/</guid>
-      <description>&lt;h1 id=&#34;thinking--doing&#34;&gt;Thinking &amp;amp; Doing&lt;/h1&gt;&#xA;&lt;p&gt;This is a place for me to write content and keep thoughts for posterity. Social media is a bore and I don&amp;rsquo;t want to spend any more time on it than necessary. So, I publish here.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;What will I write about? General interests besides tech are travel, wine, food (preparation and consumption), hiking, cycling and a plethora of other things. It might be interesting or it might not be.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
