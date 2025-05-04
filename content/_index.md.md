@@ -1,3 +1,6 @@
++++
+title = "<think/>"
++++
 # Thinking
 
 This is a place for me to write content and keep thoughts for posterity. Social media is a bore and I don't want to spend any more time on it than necessary. So, I publish here. 
