@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/New blog entry.md",
+                "file": "content/think.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New blog entry"
-            }
-          },
-          {
-            "id": "4161548ba4156691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_index.md"
+              "title": "think.md"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md.md",
+                "file": "content/think.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _index.md"
+              "title": "Backlinks for think.md"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md.md",
+                "file": "content/think.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _index.md"
+              "title": "Outgoing links from think.md"
             }
           },
           {
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md.md",
+                "file": "content/think.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _index.md"
+              "title": "Outline of think.md"
             }
           }
         ]
@@ -184,10 +169,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4161548ba4156691",
+  "active": "f530afa17c74b7bd",
   "lastOpenFiles": [
-    "content/blog/New blog entry.md",
     "content/_index.md.md",
+    "content/think.md.md",
+    "public/_index.md/index.html",
+    "public/_index.md",
+    "content/blog/New blog entry.md",
     "publish.sh",
     "public/404.html",
     "public/blog/post/index.xml",
@@ -197,7 +185,6 @@
     "public/new-blog-entry/index.html",
     "public/new-blog-entry",
     "public/index.html",
-    "public/robots.txt",
     "obsidian templates/hugo front matter.md"
   ]
 }
