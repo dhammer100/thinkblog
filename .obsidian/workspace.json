@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/think.md.md",
+                "file": "content/_index.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "think.md"
+              "title": "_index.md"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/think.md.md",
+                "file": "content/_index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for think.md"
+              "title": "Backlinks for _index.md"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/think.md.md",
+                "file": "content/_index.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from think.md"
+              "title": "Outgoing links from _index.md"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/think.md.md",
+                "file": "content/_index.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of think.md"
+              "title": "Outline of _index.md"
             }
           }
         ]
@@ -172,7 +172,7 @@
   "active": "f530afa17c74b7bd",
   "lastOpenFiles": [
     "content/_index.md.md",
-    "content/think.md.md",
+    "content/_index.md.md",
     "public/_index.md/index.html",
     "public/_index.md",
     "content/blog/New blog entry.md",
