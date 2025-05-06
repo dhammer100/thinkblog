@@ -1,6 +1,6 @@
 
 +++
-title= Singapore
+title= "Singapore"
 date= 2025-05-06
 tags= ["travel", "asia"]
 draft= true
