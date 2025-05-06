@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/blog/Singapore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Singapore"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/blog/Singapore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _index"
+              "title": "Backlinks for Singapore"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/blog/Singapore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _index"
+              "title": "Outgoing links from Singapore"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/blog/Singapore.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _index"
+              "title": "Outline of Singapore"
             }
           }
         ]
@@ -171,13 +171,14 @@
   },
   "active": "f530afa17c74b7bd",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/blog/Singapore.md",
+    "content/blog/New blog entry.md",
     "public/images/think_banner.png",
     "content/images/think_banner.png",
     "public/images/think.png",
     "public/images",
-    "content/blog/New blog entry.md",
     "content/blog/_index.md",
-    "content/_index.md",
     "content/images",
     "content/images/think.png",
     "assets/u1634875238_A_minimalist_and_modern_icon_design_for_a_persona_f6cb440d-65d9-41d3-9b2e-f7d29825ce30_2.png",
