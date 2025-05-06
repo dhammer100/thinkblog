@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/_index.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/_index.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/_index.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/_index.md",
+                "file": "content/_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,10 +171,15 @@
   },
   "active": "f530afa17c74b7bd",
   "lastOpenFiles": [
-    "content/_index.md",
-    "content/blog/_index.md",
-    "assets/think.png",
+    "public/images/think_banner.png",
+    "content/images/think_banner.png",
+    "public/images/think.png",
+    "public/images",
     "content/blog/New blog entry.md",
+    "content/blog/_index.md",
+    "content/_index.md",
+    "content/images",
+    "content/images/think.png",
     "assets/u1634875238_A_minimalist_and_modern_icon_design_for_a_persona_f6cb440d-65d9-41d3-9b2e-f7d29825ce30_2.png",
     "content/_index.md.md",
     "public/_index.md/index.html",
@@ -186,8 +191,6 @@
     "public/blog/post",
     "public/blog/index.html",
     "public/new-blog-entry/index.html",
-    "public/new-blog-entry",
-    "public/index.html",
     "obsidian templates/hugo front matter.md"
   ]
 }
