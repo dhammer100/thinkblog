@@ -173,6 +173,7 @@
   "lastOpenFiles": [
     "content/blog/_index.md",
     "content/blog/Singapore.md",
+    "obsidian templates/hugo front matter.md",
     "content/_index.md",
     "content/blog/New blog entry.md",
     "public/images/think_banner.png",
@@ -191,7 +192,6 @@
     "public/blog/post/index.html",
     "public/blog/post",
     "public/blog/index.html",
-    "public/new-blog-entry/index.html",
-    "obsidian templates/hugo front matter.md"
+    "public/new-blog-entry/index.html"
   ]
 }
