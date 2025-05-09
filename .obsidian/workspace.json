@@ -171,13 +171,21 @@
   },
   "active": "f530afa17c74b7bd",
   "lastOpenFiles": [
+    "public/singapore/index.html",
+    "public/singapore",
+    "public/blog/asia/index.xml",
+    "public/blog/asia/index.html",
+    "public/blog/asia",
+    "public/blog/travel/index.xml",
+    "public/blog/travel/index.html",
+    "public/blog/travel",
     "content/blog/_index.md",
     "content/blog/Singapore.md",
+    "content/images/think_banner.png",
     "obsidian templates/hugo front matter.md",
     "content/_index.md",
     "content/blog/New blog entry.md",
     "public/images/think_banner.png",
-    "content/images/think_banner.png",
     "public/images/think.png",
     "public/images",
     "content/images",
@@ -185,13 +193,6 @@
     "assets/u1634875238_A_minimalist_and_modern_icon_design_for_a_persona_f6cb440d-65d9-41d3-9b2e-f7d29825ce30_2.png",
     "content/_index.md.md",
     "public/_index.md/index.html",
-    "public/_index.md",
-    "publish.sh",
-    "public/404.html",
-    "public/blog/post/index.xml",
-    "public/blog/post/index.html",
-    "public/blog/post",
-    "public/blog/index.html",
-    "public/new-blog-entry/index.html"
+    "public/_index.md"
   ]
 }
