@@ -12,7 +12,7 @@ enableRobotsTXT = true
   favicon = "images/favicon.png"
   images = ["images/share.png"]
   title = "think"
-  themeStyle = "original"
+  themeStyle = "herman"
   generateSocialCard = true
   [params.author]
     name = "Dennis Hammer"
