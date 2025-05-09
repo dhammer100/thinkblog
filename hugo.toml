@@ -13,7 +13,7 @@ enableRobotsTXT = true
   favicon = "images/favicon.png"
   images = ["images/share.png"]
   title = "think"
-  themeStyle = "herman"
+  themeStyle = "dh"
   hideReply = true
 #  generateSocialCard = true
   [params.author]
