@@ -14,6 +14,6 @@ this really resonated with me today. Emphasis my own.
 
 >We’re a small generation, often overlooked, but we’ve lived through more change than most—from mixtapes to Spotify, from faxes to WhatsApp, from digital revolution to AI. And because we existed in that liminal space, we carry a weird dual wisdom: we know how to live offline, but we can thrive online, too.
 
->So here’s what I try to remember, at any age: stay curious. Never assume you’re right. Read the newspapers you’d generally avoid. Challenge even your most cherished opinions. Try to see more than one side. You won’t always succeed, but it’s worth the effort.
+>So here’s what I try to remember, at any age: **stay curious**. Never assume you’re right. Read the newspapers you’d generally avoid. Challenge even your most cherished opinions. Try to see more than one side. You won’t always succeed, but it’s worth the effort.
 
 >Because if growing older has taught me anything, it’s this: **certainty is overrated, and listening is wildly underrated.** Cosy nights in don’t mean you’ve given up. They just mean you know what you like — and that maybe, just maybe, you never truly loved going to gigs as much as you pretended to. **You stop performing. You stop pretending**. And that’s freedom.
