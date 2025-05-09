@@ -5,8 +5,8 @@ title = '<think/>'
 theme = 'hugo-bearcub'
 copyright = "Dennis Hammer"
 enableRobotsTXT = true
-#[permalinks]
-#  blog = "/blog/:slug/"
+[permalinks]
+  blog = "/blog/:slug/"
 #  tags = "/tags/:slug"
 [params]
   description = "Dennis Hammer's blog with observations about tech, travel, wine, food and other things"
@@ -14,7 +14,7 @@ enableRobotsTXT = true
   images = ["images/share.png"]
   title = "think"
   themeStyle = "herman"
-  generateSocialCard = true
+#  generateSocialCard = true
   [params.author]
     name = "Dennis Hammer"
     email = "think@h-group.net"

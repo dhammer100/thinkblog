@@ -1,7 +1,9 @@
+---
+title: "Home"
+menu: "main"
+weight: 1
+---
 
-+++
-title = "."
-+++
 
 ![](images/think_banner.png)
 # Thinking & Doing

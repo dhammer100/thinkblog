@@ -1,3 +1,5 @@
-+++
-title = "blog"
-+++
+---
+title: "Blog"
+menu: "main"
+weight: 2
+---
