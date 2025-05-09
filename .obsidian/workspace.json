@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Singapore"
             }
+          },
+          {
+            "id": "73b51b33b10d985f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/blog/On getting older.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "On getting older"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/Singapore.md",
+                "file": "content/blog/On getting older.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Singapore"
+              "title": "Backlinks for On getting older"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/Singapore.md",
+                "file": "content/blog/On getting older.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Singapore"
+              "title": "Outgoing links from On getting older"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/Singapore.md",
+                "file": "content/blog/On getting older.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Singapore"
+              "title": "Outline of On getting older"
             }
           }
         ]
@@ -169,10 +184,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f530afa17c74b7bd",
+  "active": "73b51b33b10d985f",
   "lastOpenFiles": [
-    "obsidian templates/hugo front matter.md",
+    "public/tags/quotes/index.xml",
+    "public/tags/quotes/index.html",
+    "public/tags/quotes",
+    "public/blog/on-getting-older/index.html",
+    "public/blog/on-getting-older",
     "content/blog/Singapore.md",
+    "content/blog/On getting older.md",
+    "obsidian templates/hugo front matter.md",
     "public/tags/post/index.html",
     "content/blog/_index.md",
     "content/_index.md",
@@ -181,10 +202,6 @@
     "public/blog/singapore/index.html",
     "public/blog/singapore",
     "public/tags/asia/index.html",
-    "public/tags/asia",
-    "public/tags/travel/index.html",
-    "public/tags/travel",
-    "public/herman.min.css",
     "themes/hugo-bearcub/images/tn.png",
     "themes/hugo-bearcub/images/social_card.webp",
     "themes/hugo-bearcub/images/screenshot.png",
@@ -214,7 +231,6 @@
     "content/blog/themes/hugo-bearcub/exampleSite/content/blog/_index.md",
     "content/blog/themes/hugo-bearcub/exampleSite/content.pt/_index.md",
     "content/blog/themes/hugo-bearcub/exampleSite/content/_index.md",
-    "content/blog/themes/hugo-bearcub/README.md",
-    "content/blog/New blog entry.md"
+    "content/blog/themes/hugo-bearcub/README.md"
   ]
 }
