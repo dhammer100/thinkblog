@@ -186,6 +186,7 @@
   },
   "active": "73b51b33b10d985f",
   "lastOpenFiles": [
+    "public/dh.min.css",
     "assets/herman.css",
     "layouts/_default/rss.xml",
     "layouts/_default",
@@ -198,7 +199,6 @@
     "content/blog/Singapore.md",
     "content/blog/On getting older.md",
     "public/tags/quotes/index.xml",
-    "public/tags/quotes/index.html",
     "obsidian templates/hugo front matter.md",
     "content/blog/_index.md",
     "content/_index.md",
