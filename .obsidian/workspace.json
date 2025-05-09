@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/test.md",
+                "file": "content/blog/On getting older.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "On getting older"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/test.md",
+                "file": "content/blog/On getting older.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test"
+              "title": "Backlinks for On getting older"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/test.md",
+                "file": "content/blog/On getting older.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from test"
+              "title": "Outgoing links from On getting older"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/test.md",
+                "file": "content/blog/On getting older.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline of On getting older"
             }
           }
         ]
@@ -186,10 +186,11 @@
   },
   "active": "73b51b33b10d985f",
   "lastOpenFiles": [
-    "public/blog/test/index.html",
-    "public/blog/test",
+    "content/blog/Singapore.md",
     "content/blog/On getting older.md",
     "content/blog/test.md",
+    "public/blog/test/index.html",
+    "public/blog/test",
     "public/dh.min.css",
     "assets/herman.css",
     "layouts/_default/rss.xml",
@@ -198,8 +199,6 @@
     "layouts/rss.xml",
     "themes/hugo-bearcub/layouts/_default/rss.xml",
     "themes/hugo-bearcub/layouts/_default/rss copy.xml",
-    "themes/hugo-bearcub/assets/dh.css",
-    "content/blog/Singapore.md",
     "obsidian templates/hugo front matter.md",
     "content/blog/_index.md",
     "content/_index.md",
