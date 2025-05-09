@@ -5,8 +5,8 @@ theme = 'hugo-bearblog'
 author = "Dennis Hammer"
 enableRobotsTXT = true
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
-disableKinds = ["taxonomy"]
-ignoreErrors = ["error-disable-taxonomy"]
+#disableKinds = ["taxonomy"]
+#ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
   blog = "/blog/:slug/"
   tags = "/tags/:slug"
