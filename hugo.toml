@@ -1,4 +1,4 @@
-baseURL = 'https://h-group.net/'
+baseURL = 'https://think.h-group.net/'
 languageCode = 'en-us'
 title = '<think/>'
 theme = 'hugo-bearblog'
