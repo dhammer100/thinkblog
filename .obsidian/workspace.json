@@ -186,6 +186,8 @@
   },
   "active": "73b51b33b10d985f",
   "lastOpenFiles": [
+    "public/blog/test/index.html",
+    "public/blog/test",
     "content/blog/On getting older.md",
     "content/blog/test.md",
     "public/dh.min.css",
@@ -197,7 +199,6 @@
     "themes/hugo-bearcub/layouts/_default/rss.xml",
     "themes/hugo-bearcub/layouts/_default/rss copy.xml",
     "themes/hugo-bearcub/assets/dh.css",
-    "themes/hugo-bearcub/assets/herman copy.css",
     "content/blog/Singapore.md",
     "obsidian templates/hugo front matter.md",
     "content/blog/_index.md",
@@ -230,7 +231,6 @@
     "content/blog/themes/hugo-bearcub/exampleSite/content/blog/emoji-support.md",
     "content/blog/themes/hugo-bearcub/exampleSite/content/blog/_index.md",
     "content/blog/themes/hugo-bearcub/exampleSite/content.pt/_index.md",
-    "content/blog/themes/hugo-bearcub/exampleSite/content/_index.md",
-    "content/blog/themes/hugo-bearcub/README.md"
+    "content/blog/themes/hugo-bearcub/exampleSite/content/_index.md"
   ]
 }
