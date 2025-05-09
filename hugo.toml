@@ -1,12 +1,13 @@
 baseURL = 'https://think.h-group.net/'
 languageCode = 'en-us'
+defaultContentLanguage = "en"
 title = '<think/>'
 theme = 'hugo-bearcub'
 copyright = "Dennis Hammer"
 enableRobotsTXT = true
-[permalinks]
-  blog = "/blog/:slug/"
-  tags = "/tags/:slug"
+#[permalinks]
+#  blog = "/blog/:slug/"
+#  tags = "/tags/:slug"
 [params]
   description = "Dennis Hammer's blog with observations about tech, travel, wine, food and other things"
   favicon = "images/favicon.png"

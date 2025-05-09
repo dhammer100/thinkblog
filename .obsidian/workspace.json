@@ -171,6 +171,7 @@
   },
   "active": "f530afa17c74b7bd",
   "lastOpenFiles": [
+    "public/herman.min.css",
     "public/original.min.css",
     "themes/hugo-bearcub/theme.toml",
     "themes/hugo-bearcub/layouts/_default/_markup/render-codeblock.html",
@@ -181,7 +182,6 @@
     "themes/hugo-bearcub/layouts/partials/social_card.html",
     "themes/hugo-bearcub/layouts/partials/nav.html",
     "themes/hugo-bearcub/layouts/partials/header.html",
-    "themes/hugo-bearcub/layouts/partials/footer.html",
     "themes/hugo-bearcub/images/tn.png",
     "themes/hugo-bearcub/images/social_card.webp",
     "themes/hugo-bearcub/images/screenshot.png",
